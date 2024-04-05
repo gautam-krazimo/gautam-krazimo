@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --desktop-16m: Poppins;
+
+  /* font sizes */
+  --desktop-16m-size: 16px;
+  --desktop-h2-48sb-size: 48px;
+
+  /* Colors */
+  --turqouise-900: #001817;
+  --monochrome-900: #0b0c0d;
+  --monochrome-white: #fff;
+  --turqouise-25: #f0ffff;
+  --rust-700: #df3c03;
+  --monochrome-400: #7b8394;
+  --color-darkslategray: rgba(0, 72, 70, 0.9);
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-9xs: 4px;
+
+  /* Effects */
+  --shadow-xs: 0px 1px 2px rgba(16, 24, 40, 0.05);
+}
